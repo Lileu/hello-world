@@ -8,6 +8,8 @@ namespace HelloWorld
         {   
             string name = args[0];
             Console.WriteLine($"Hello {name}");
+
+            //this is a comment
         }
     }
 }
